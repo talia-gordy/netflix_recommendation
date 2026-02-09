@@ -2,7 +2,7 @@
 
 ## 📝 Description:
 
-### A ML (Machine Learning) project written in Google Collab with Python and ML libaries, to provide suggestions on a users next favorite movie or TV show within Netflix! 
+### A ML (Machine Learning) project written in Google Collab and Visual Stuido Code with Python and ML libaries, to provide suggestions on a users next favorite movie or TV show within Netflix! 
 - [Google Collab](https://colab.google/) was used to create the trained model as it's a free and widely used notebook that allows people to train complex machine-learning models efficently in a collabrative environment.
 - [Streamlit](https://streamlit.io/) was used to provide a visual UI and deploy the app.
 - [Visual Studio Code](https://code.visualstudio.com/download) was the second coding environment used in this porgramm. 
